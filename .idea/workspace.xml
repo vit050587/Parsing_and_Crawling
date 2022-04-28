@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c6829f2-76be-480e-8f91-6defc65e53ea" name="Default Changelist" comment="ДЗ к 6-ому уроку">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jobparser/runner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_04_2022_18_25_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_04_2022_18_25__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="4c6829f2-76be-480e-8f91-6defc65e53ea" name="Default Changelist" comment="ДЗ к 4-ому уроку">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,21 +168,7 @@
       <option name="project" value="LOCAL" />
       <updated>1648646903687</updated>
     </task>
-    <task id="LOCAL-00003" summary="ДЗ к 5-ому уроку">
-      <created>1650215437408</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1650215437408</updated>
-    </task>
-    <task id="LOCAL-00004" summary="ДЗ к 6-ому уроку">
-      <created>1650215860960</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1650215860960</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,8 +184,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add homework" />
-    <MESSAGE value="ДЗ к 5-ому уроку" />
-    <MESSAGE value="ДЗ к 6-ому уроку" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ к 6-ому уроку" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework" />
   </component>
 </project>
