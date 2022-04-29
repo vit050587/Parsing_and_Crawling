@@ -1,0 +1,385 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1651223310651)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]/shelved.patch	(date 1651223310651)
+@@ -0,0 +1,185 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"27fb5fac-88f4-4c77-bd34-e55e96545937\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson03\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"27vgpuvgRpBfXVDUzUxJbrofXes\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"27fb5fac-88f4-4c77-bd34-e55e96545937\" name=\"Changes\" comment=\"\" />\r\n      <created>1650206159557</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1650206159557</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	
+++++ b/.idea/workspace.xml	
++@@ -1,45 +1,149 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <project version="4">
++   <component name="ChangeListManager">
++-    <list default="true" id="27fb5fac-88f4-4c77-bd34-e55e96545937" name="Changes" comment="" />
+++    <list default="true" id="4c6829f2-76be-480e-8f91-6defc65e53ea" name="Default Changelist" comment="ДЗ к 4-ому уроку">
+++      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+++      <change afterPath="$PROJECT_DIR$/lesson05.py" afterDir="false" />
+++      <change beforePath="$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml" afterDir="false" />
+++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+++    </list>
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++     <option name="LAST_RESOLUTION" value="IGNORE" />
+++  </component>
+++  <component name="FileTemplateManagerImpl">
+++    <option name="RECENT_TEMPLATES">
+++      <list>
+++        <option value="Python Script" />
+++      </list>
+++    </option>
++   </component>
++   <component name="Git.Settings">
+++    <option name="PUSH_TAGS">
+++      <GitPushTagMode>
+++        <option name="argument" value="--tags" />
+++        <option name="title" value="All" />
+++      </GitPushTagMode>
+++    </option>
++     <option name="RECENT_BRANCH_BY_REPOSITORY">
++       <map>
++-        <entry key="$PROJECT_DIR$" value="lesson03" />
+++        <entry key="$PROJECT_DIR$" value="lesson04" />
++       </map>
++     </option>
++     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++   </component>
++-  <component name="MarkdownSettingsMigration">
++-    <option name="stateVersion" value="1" />
+++  <component name="ProjectId" id="276fQKM0L8ScaaprsMofGBtgvhp" />
+++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+++    <OptionsSetting value="false" id="Update" />
++   </component>
++-  <component name="ProjectId" id="27vgpuvgRpBfXVDUzUxJbrofXes" />
++-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++   <component name="ProjectViewState">
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "RunOnceActivity.OpenProjectViewOnStart": "true",
++-    "RunOnceActivity.ShowReadmeOnStart": "true",
++-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+++    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
++   }
++-}]]></component>
+++}</component>
+++  <component name="RunManager" selected="Python.lesson05">
+++    <configuration name="lesson01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+++      <module name="Parsing_and_Crawling" />
+++      <option name="INTERPRETER_OPTIONS" value="" />
+++      <option name="PARENT_ENVS" value="true" />
+++      <envs>
+++        <env name="PYTHONUNBUFFERED" value="1" />
+++      </envs>
+++      <option name="SDK_HOME" value="" />
+++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+++      <option name="IS_MODULE_SDK" value="true" />
+++      <option name="ADD_CONTENT_ROOTS" value="true" />
+++      <option name="ADD_SOURCE_ROOTS" value="true" />
+++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson01.py" />
+++      <option name="PARAMETERS" value="" />
+++      <option name="SHOW_COMMAND_LINE" value="false" />
+++      <option name="EMULATE_TERMINAL" value="false" />
+++      <option name="MODULE_MODE" value="false" />
+++      <option name="REDIRECT_INPUT" value="false" />
+++      <option name="INPUT_FILE" value="" />
+++      <method v="2" />
+++    </configuration>
+++    <configuration name="lesson05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+++      <module name="Parsing_and_Crawling" />
+++      <option name="INTERPRETER_OPTIONS" value="" />
+++      <option name="PARENT_ENVS" value="true" />
+++      <envs>
+++        <env name="PYTHONUNBUFFERED" value="1" />
+++      </envs>
+++      <option name="SDK_HOME" value="" />
+++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+++      <option name="IS_MODULE_SDK" value="true" />
+++      <option name="ADD_CONTENT_ROOTS" value="true" />
+++      <option name="ADD_SOURCE_ROOTS" value="true" />
+++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson05.py" />
+++      <option name="PARAMETERS" value="" />
+++      <option name="SHOW_COMMAND_LINE" value="false" />
+++      <option name="EMULATE_TERMINAL" value="false" />
+++      <option name="MODULE_MODE" value="false" />
+++      <option name="REDIRECT_INPUT" value="false" />
+++      <option name="INPUT_FILE" value="" />
+++      <method v="2" />
+++    </configuration>
+++    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+++      <module name="Parsing_and_Crawling" />
+++      <option name="INTERPRETER_OPTIONS" value="" />
+++      <option name="PARENT_ENVS" value="true" />
+++      <envs>
+++        <env name="PYTHONUNBUFFERED" value="1" />
+++      </envs>
+++      <option name="SDK_HOME" value="" />
+++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+++      <option name="IS_MODULE_SDK" value="true" />
+++      <option name="ADD_CONTENT_ROOTS" value="true" />
+++      <option name="ADD_SOURCE_ROOTS" value="true" />
+++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+++      <option name="PARAMETERS" value="" />
+++      <option name="SHOW_COMMAND_LINE" value="false" />
+++      <option name="EMULATE_TERMINAL" value="false" />
+++      <option name="MODULE_MODE" value="false" />
+++      <option name="REDIRECT_INPUT" value="false" />
+++      <option name="INPUT_FILE" value="" />
+++      <method v="2" />
+++    </configuration>
+++    <recent_temporary>
+++      <list>
+++        <item itemvalue="Python.lesson05" />
+++        <item itemvalue="Python.lesson01" />
+++      </list>
+++    </recent_temporary>
+++  </component>
++   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++   <component name="TaskManager">
++     <task active="true" id="Default" summary="Default task">
++-      <changelist id="27fb5fac-88f4-4c77-bd34-e55e96545937" name="Changes" comment="" />
++-      <created>1650206159557</created>
+++      <changelist id="4c6829f2-76be-480e-8f91-6defc65e53ea" name="Default Changelist" comment="" />
+++      <created>1648645438811</created>
++       <option name="number" value="Default" />
++       <option name="presentableId" value="Default" />
++-      <updated>1650206159557</updated>
+++      <updated>1648645438811</updated>
++     </task>
+++    <task id="LOCAL-00001" summary="add homework">
+++      <created>1648646870175</created>
+++      <option name="number" value="00001" />
+++      <option name="presentableId" value="LOCAL-00001" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1648646870175</updated>
+++    </task>
+++    <task id="LOCAL-00002" summary="add homework">
+++      <created>1648646903687</created>
+++      <option name="number" value="00002" />
+++      <option name="presentableId" value="LOCAL-00002" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1648646903687</updated>
+++    </task>
+++    <option name="localTasksCounter" value="3" />
++     <servers />
++   </component>
++   <component name="Vcs.Log.Tabs.Properties">
++@@ -53,4 +157,8 @@
++       </map>
++     </option>
++   </component>
+++  <component name="VcsManagerConfiguration">
+++    <MESSAGE value="add homework" />
+++    <option name="LAST_COMMIT_MESSAGE" value="add homework" />
+++  </component>
++ </project>
++\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13__Default_Changelist_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13__Default_Changelist_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13__Default_Changelist_.xml
+new file mode 100644
+--- /dev/null	(date 1651223310645)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13__Default_Changelist_.xml	(date 1651223310645)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]" date="1651162387368" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 28.04.2022 19:13 [Default Changelist]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07__Default_Changelist_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07__Default_Changelist_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07__Default_Changelist_.xml
+new file mode 100644
+--- /dev/null	(date 1651223310638)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07__Default_Changelist_.xml	(date 1651223310638)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Checkout_at_28_04_2022_19_07_[Default_Changelist]" date="1651162138671" recycled="true" deleted="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07_[Default_Changelist]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 28.04.2022 19:07 [Default Changelist]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10__Default_Changelist_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10__Default_Changelist_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10__Default_Changelist_.xml
+new file mode 100644
+--- /dev/null	(date 1651223310629)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10__Default_Changelist_.xml	(date 1651223310629)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]" date="1651162220593" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Update at 28.04.2022 19:10 [Default Changelist]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07_[Default_Changelist]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07_[Default_Changelist]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07_[Default_Changelist]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1651223310621)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_07_[Default_Changelist]/shelved.patch	(date 1651223310621)
+@@ -0,0 +1,28 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4c6829f2-76be-480e-8f91-6defc65e53ea\" name=\"Default Changelist\" comment=\"ДЗ к 4-ому уроку\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/dbnavigator.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/lesson05.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson04\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"276fQKM0L8ScaaprsMofGBtgvhp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.lesson05\">\r\n    <configuration name=\"lesson01\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson01.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"lesson05\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson05.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.lesson05\" />\r\n        <item itemvalue=\"Python.lesson01\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4c6829f2-76be-480e-8f91-6defc65e53ea\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1648645438811</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1648645438811</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"add homework\">\r\n      <created>1648646870175</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1648646870175</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"add homework\">\r\n      <created>1648646903687</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1648646903687</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"add homework\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add homework\" />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	(revision 8e2014826085048582b079ad0165bff461eb107f)
+++++ b/.idea/workspace.xml	(date 1651160679081)
++@@ -43,12 +43,12 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+++    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="RunManager" selected="Python.lesson05">
++     <configuration name="lesson01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++       <module name="Parsing_and_Crawling" />
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1651223310613)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]/shelved.patch	(date 1651223310613)
+@@ -0,0 +1,75 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4c6829f2-76be-480e-8f91-6defc65e53ea\" name=\"Default Changelist\" comment=\"ДЗ к 4-ому уроку\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/dbnavigator.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/lesson05.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson04\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"276fQKM0L8ScaaprsMofGBtgvhp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.lesson05\">\r\n    <configuration name=\"lesson01\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson01.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"lesson05\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson05.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.lesson05\" />\r\n        <item itemvalue=\"Python.lesson01\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4c6829f2-76be-480e-8f91-6defc65e53ea\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1648645438811</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1648645438811</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"add homework\">\r\n      <created>1648646870175</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1648646870175</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"add homework\">\r\n      <created>1648646903687</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1648646903687</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"add homework\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add homework\" />\r\n  </component>\r\n</project>
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	
+++++ b/.idea/workspace.xml	
++@@ -1,14 +1,7 @@
++ <?xml version="1.0" encoding="UTF-8"?>
++ <project version="4">
++   <component name="ChangeListManager">
++-    <list default="true" id="4c6829f2-76be-480e-8f91-6defc65e53ea" name="Default Changelist" comment="ДЗ к 4-ому уроку">
++-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++-      <change afterPath="$PROJECT_DIR$/lesson05.py" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml" afterDir="false" />
++-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++-    </list>
+++    <list default="true" id="4c6829f2-76be-480e-8f91-6defc65e53ea" name="Default Changelist" comment="ДЗ к 4-ому уроку" />
++     <option name="SHOW_DIALOG" value="false" />
++     <option name="HIGHLIGHT_CONFLICTS" value="true" />
++     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++@@ -34,6 +27,9 @@
++       </map>
++     </option>
++     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+++  </component>
+++  <component name="MarkdownSettingsMigration">
+++    <option name="stateVersion" value="1" />
++   </component>
++   <component name="ProjectId" id="276fQKM0L8ScaaprsMofGBtgvhp" />
++   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++@@ -43,12 +39,12 @@
++     <option name="hideEmptyMiddlePackages" value="true" />
++     <option name="showLibraryContents" value="true" />
++   </component>
++-  <component name="PropertiesComponent"><![CDATA[{
++-  "keyToString": {
++-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+++  <component name="PropertiesComponent">{
+++  &quot;keyToString&quot;: {
+++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+++    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
++   }
++-}]]></component>
+++}</component>
++   <component name="RunManager" selected="Python.lesson05">
++     <configuration name="lesson01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++       <module name="Parsing_and_Crawling" />
++@@ -151,7 +147,19 @@
++       <map>
++         <entry key="MAIN">
++           <value>
++-            <State />
+++            <State>
+++              <option name="FILTERS">
+++                <map>
+++                  <entry key="branch">
+++                    <value>
+++                      <list>
+++                        <option value="lesson05" />
+++                      </list>
+++                    </value>
+++                  </entry>
+++                </map>
+++              </option>
+++            </State>
++           </value>
++         </entry>
++       </map>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4c6829f2-76be-480e-8f91-6defc65e53ea\" name=\"Default Changelist\" comment=\"ДЗ к 4-ому уроку\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/dbnavigator.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/lesson05.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/Parsing_and_Crawling.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson04\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"276fQKM0L8ScaaprsMofGBtgvhp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.lesson05\">\r\n    <configuration name=\"lesson01\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson01.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"lesson05\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson05.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"Parsing_and_Crawling\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.lesson05\" />\r\n        <item itemvalue=\"Python.lesson01\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4c6829f2-76be-480e-8f91-6defc65e53ea\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1648645438811</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1648645438811</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"add homework\">\r\n      <created>1648646870175</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1648646870175</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"add homework\">\r\n      <created>1648646903687</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1648646903687</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"add homework\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add homework\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8e2014826085048582b079ad0165bff461eb107f)
++++ b/.idea/workspace.xml	(date 1651223310660)
+@@ -117,6 +117,7 @@
+       <list>
+         <item itemvalue="Python.lesson05" />
+         <item itemvalue="Python.lesson01" />
++        <item itemvalue="Python.lesson01" />
+       </list>
+     </recent_temporary>
+   </component>
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2022_19_10_[Default_Changelist]1/shelved.patch
+new file mode 100644
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_04_2022_19_13_[Default_Changelist]1/shelved.patch
+new file mode 100644
